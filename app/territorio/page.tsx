@@ -10,7 +10,7 @@ export default function TerritorioPage() {
         <section className="relative py-24 px-4 bg-gradient-to-br from-rustic-800 via-rustic-700 to-baroque-900 text-white">
           <div className="max-w-6xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-serif mb-6">
-              Territorio: L'Etna e Oltre
+              Territorio: L&apos;Etna e Oltre
             </h1>
             <p className="text-xl text-rustic-200 max-w-3xl mx-auto">
               Il vulcano come nume tutelare, la Sicilia autentica come scoperta
@@ -23,7 +23,7 @@ export default function TerritorioPage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-serif text-baroque-900 mb-4">
-                L'Etna: Nume Tutelare
+                L&apos;Etna: Nume Tutelare
               </h2>
               <div className="ornament-liberty w-32 h-1 bg-liberty-500 mx-auto mt-6"></div>
             </div>
@@ -31,10 +31,10 @@ export default function TerritorioPage() {
             <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
               <div className="space-y-6">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  L'<strong>Etna</strong>, il vulcano più alto d'Europa, domina il paesaggio di Nicolosi 
+                  L&apos;<strong>Etna</strong>, il vulcano più alto d&apos;Europa, domina il paesaggio di Nicolosi 
                   come un <strong>nume tutelare</strong>, una presenza maestosa che accompagna ogni 
                   momento del soggiorno a Villa Joele. Questo gigante di fuoco e pietra, patrimonio 
-                  UNESCO, non è solo uno spettacolo naturale, ma l'anima stessa del territorio.
+                  UNESCO, non è solo uno spettacolo naturale, ma l&apos;anima stessa del territorio.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
@@ -108,7 +108,7 @@ export default function TerritorioPage() {
             <div className="grid md:grid-cols-3 gap-8">
               <div className="card-elegant p-6">
                 <h3 className="text-2xl font-serif text-baroque-900 mb-4">
-                  Escursioni sull'Etna
+                  Escursioni sull&apos;Etna
                 </h3>
                 <p className="text-baroque-700 leading-relaxed">
                   Esplora i crateri, i sentieri naturalistici e le grotte laviche del vulcano più 

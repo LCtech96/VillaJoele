@@ -6,9 +6,9 @@ export default function Footer() {
           <div>
             <h3 className="text-2xl font-serif mb-4 text-rustic-200">Villa Joele</h3>
             <p className="text-rustic-300 text-sm leading-relaxed">
-              Affittacamere d'élite<br />
+              Affittacamere d&apos;élite<br />
               Nicolosi (CT), Sicilia<br />
-              Ai piedi dell'Etna
+              Ai piedi dell&apos;Etna
             </p>
           </div>
           

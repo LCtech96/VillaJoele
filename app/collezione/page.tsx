@@ -13,7 +13,7 @@ export default function CollezionePage() {
               La Collezione
             </h1>
             <p className="text-xl text-rustic-200 max-w-3xl mx-auto">
-              Un viaggio nel tempo attraverso l'arte artigianale siciliana
+              Un viaggio nel tempo attraverso l&apos;arte artigianale siciliana
             </p>
           </div>
         </section>
@@ -31,10 +31,10 @@ export default function CollezionePage() {
             <div className="grid md:grid-cols-2 gap-12 items-center mb-20">
               <div className="space-y-6">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  Tra i tesori di Villa Joele spicca un <strong>mobile "alla certosina" originale</strong>, 
+                  Tra i tesori di Villa Joele spicca un <strong>mobile &ldquo;alla certosina&rdquo; originale</strong>, 
                   un capolavoro di artigianato che celebra la pazienza e la maestria degli antichi maestri. 
                   Realizzato in <strong>avorio ed ebano</strong>, questo pezzo unico testimonia la preziosità 
-                  dei materiali e la complessità della tecnica dell'intarsio.
+                  dei materiali e la complessità della tecnica dell&apos;intarsio.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
@@ -77,18 +77,18 @@ export default function CollezionePage() {
 
               <div className="space-y-6 order-1 md:order-2">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  I <strong>letti di fine '800 e inizio '900</strong> sono veri e propri capolavori 
-                  dell'artigianato siciliano. Realizzati in <strong>ferro e lamiera siciliana</strong>, 
+                  I <strong>letti di fine &apos;800 e inizio &apos;900</strong> sono veri e propri capolavori 
+                  dell&apos;artigianato siciliano. Realizzati in <strong>ferro e lamiera siciliana</strong>, 
                   questi letti sono decorati con <strong>muse dipinte</strong> e intarsi in 
                   <strong> madreperla</strong> nella laccatura, che catturano e riflettono la luce 
                   creando effetti cangianti e ipnotici.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  Ogni dettaglio racconta la storia di un'epoca in cui l'arte decorativa raggiunse 
+                  Ogni dettaglio racconta la storia di un&apos;epoca in cui l&apos;arte decorativa raggiunse 
                   vette di raffinatezza. La madreperla, con i suoi riflessi iridescenti, trasforma 
-                  questi letti in oggetti d'arte che accompagnano i sogni dei nostri ospiti, 
-                  creando un'esperienza di puro comfort e bellezza.
+                  questi letti in oggetti d&apos;arte che accompagnano i sogni dei nostri ospiti, 
+                  creando un&apos;esperienza di puro comfort e bellezza.
                 </p>
               </div>
             </div>
@@ -108,16 +108,16 @@ export default function CollezionePage() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div className="space-y-6">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  Villa Joele celebra l'<strong>eclettismo</strong> come forma d'arte superiore. 
+                  Villa Joele celebra l&apos;<strong>eclettismo</strong> come forma d&apos;arte superiore. 
                   Negli ambienti convivono armoniosamente lo <strong>stile Barocco</strong>, con le 
-                  sue curve sinuose e la sua opulenza decorativa, l'<strong>Art Nouveau</strong>, 
+                  sue curve sinuose e la sua opulenza decorativa, l&apos;<strong>Art Nouveau</strong>, 
                   con le sue linee organiche ispirate alla natura, e il <strong>Liberty</strong>, 
                   con la sua eleganza floreale e geometrica.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  Questo incontro di stili non è casuale, ma un viaggio nel tempo e nell'arte siciliana. 
-                  Ogni pezzo racconta una storia diversa, creando un'estetica eclettica che celebra 
+                  Questo incontro di stili non è casuale, ma un viaggio nel tempo e nell&apos;arte siciliana. 
+                  Ogni pezzo racconta una storia diversa, creando un&apos;estetica eclettica che celebra 
                   la ricchezza culturale della Sicilia e la sua capacità di assorbire e reinterpretare 
                   le correnti artistiche europee.
                 </p>

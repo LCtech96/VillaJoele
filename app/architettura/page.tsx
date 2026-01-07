@@ -13,7 +13,7 @@ export default function ArchitetturaPage() {
               Architettura e Anima
             </h1>
             <p className="text-xl text-rustic-200 max-w-3xl mx-auto">
-              La geometria sacra dell'esagono che si trasforma in dimora
+              La geometria sacra dell&apos;esagono che si trasforma in dimora
             </p>
           </div>
         </section>
@@ -31,14 +31,14 @@ export default function ArchitetturaPage() {
             <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
               <div className="space-y-6">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  Villa Joele incarna l'essenza dell'<strong>architettura vernacolare siciliana</strong>, 
-                  dove la tradizione incontra l'innovazione geometrica. La struttura è composta da 
-                  <strong> due volumi esagonali che si fondono</strong> in un'unica dimora armoniosa, 
+                  Villa Joele incarna l&apos;essenza dell&apos;<strong>architettura vernacolare siciliana</strong>, 
+                  dove la tradizione incontra l&apos;innovazione geometrica. La struttura è composta da 
+                  <strong> due volumi esagonali che si fondono</strong> in un&apos;unica dimora armoniosa, 
                   creando uno spazio che celebra la perfezione della forma esagonale.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  L'esagono, con la sua geometria perfetta, evoca immagini di nido d'api, di armonia 
+                  L&apos;esagono, con la sua geometria perfetta, evoca immagini di nido d&apos;api, di armonia 
                   naturale, di equilibrio tra cielo e terra. Questa forma sacra si trasforma in 
                   architettura vivente, dove ogni angolo racconta una storia di maestria artigianale 
                   e di rispetto per la tradizione siciliana.
@@ -80,14 +80,14 @@ export default function ArchitetturaPage() {
                   Il <strong>grande salone su due livelli</strong> è il cuore pulsante di Villa Joele. 
                   Questo spazio monumentale è inondato dalla luce naturale che filtra attraverso 
                   <strong> quattro ampie finestre</strong>, creando un gioco di chiaroscuri che esalta 
-                  ogni dettaglio degli arredi d'antiquariato.
+                  ogni dettaglio degli arredi d&apos;antiquariato.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  La luce, elemento fondamentale dell'architettura mediterranea, danza tra i mobili 
+                  La luce, elemento fondamentale dell&apos;architettura mediterranea, danza tra i mobili 
                   Barocchi e gli elementi Liberty, creando atmosfere che cambiano con il trascorrere 
-                  delle ore. È qui che l'arte incontra la vita quotidiana, dove ogni momento diventa 
-                  un'esperienza estetica.
+                  delle ore. È qui che l&apos;arte incontra la vita quotidiana, dove ogni momento diventa 
+                  un&apos;esperienza estetica.
                 </p>
               </div>
             </div>

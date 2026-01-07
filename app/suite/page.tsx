@@ -23,7 +23,7 @@ export default function SuitePage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-serif text-baroque-900 mb-4">
-                Due Camere Matrimoniali d'Élite
+                Due Camere Matrimoniali d&apos;Élite
               </h2>
               <div className="ornament-liberty w-32 h-1 bg-liberty-500 mx-auto mt-6"></div>
             </div>
@@ -31,9 +31,9 @@ export default function SuitePage() {
             <div className="mb-12">
               <p className="text-lg text-baroque-700 leading-relaxed text-center max-w-4xl mx-auto">
                 Villa Joele offre <strong>due ampie camere matrimoniali</strong>, ognuna concepita 
-                come un santuario di privacy e bellezza. Ogni camera è un rifugio dove l'arte incontra 
-                il comfort, dove gli arredi d'antiquariato dialogano con il design contemporaneo, 
-                creando un'esperienza di soggiorno unica e indimenticabile.
+                come un santuario di privacy e bellezza. Ogni camera è un rifugio dove l&apos;arte incontra 
+                il comfort, dove gli arredi d&apos;antiquariato dialogano con il design contemporaneo, 
+                creando un&apos;esperienza di soggiorno unica e indimenticabile.
               </p>
             </div>
           </div>
@@ -109,8 +109,8 @@ export default function SuitePage() {
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
                   Anche questa suite è dotata di <strong>bagno padronale privato</strong>, 
-                  uno spazio di design dove il comfort incontra l'estetica. Ogni dettaglio 
-                  è pensato per offrire agli ospiti un'esperienza di soggiorno indimenticabile, 
+                  uno spazio di design dove il comfort incontra l&apos;estetica. Ogni dettaglio 
+                  è pensato per offrire agli ospiti un&apos;esperienza di soggiorno indimenticabile, 
                   immersi nella bellezza e nella storia.
                 </p>
               </div>

@@ -53,9 +53,9 @@ export default function Hero() {
           
           <div className="mt-8 space-y-4">
             <p className="text-lg text-baroque-600 leading-relaxed">
-              Un rifugio d'arte dove il tempo si è fermato. 
-              Dimora storica d'artista ai piedi dell'Etna, 
-              dove due esagoni si fondono in un'architettura vernacolare unica.
+              Un rifugio d&apos;arte dove il tempo si è fermato. 
+              Dimora storica d&apos;artista ai piedi dell&apos;Etna, 
+              dove due esagoni si fondono in un&apos;architettura vernacolare unica.
             </p>
             
             <div className="pt-6">
