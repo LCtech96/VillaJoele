@@ -23,7 +23,7 @@ export default function CollezionePage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-serif text-baroque-900 mb-4">
-                L'Arte della Certosina
+                L&apos;Arte della Certosina
               </h2>
               <div className="ornament-liberty w-32 h-1 bg-liberty-500 mx-auto mt-6"></div>
             </div>
@@ -39,7 +39,7 @@ export default function CollezionePage() {
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
                   La tecnica certosina, che prende il nome dai monaci certosini che la perfezionarono, 
-                  richiede una precisione millimetrica e un'arte che si tramanda di generazione in generazione. 
+                  richiede una precisione millimetrica e un&apos;arte che si tramanda di generazione in generazione. 
                   Ogni tassello di avorio e ebano è posizionato con cura maniacale, creando motivi geometrici 
                   che riflettono la luce in modi sempre diversi.
                 </p>

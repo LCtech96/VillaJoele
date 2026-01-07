@@ -4,7 +4,7 @@ export default function Intro() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-serif text-baroque-900 mb-4">
-            Benvenuti in un Capolavoro d'Architettura
+            Benvenuti in un Capolavoro d&apos;Architettura
           </h2>
           <div className="ornament-liberty w-32 h-1 bg-liberty-500 mx-auto mt-6"></div>
         </div>

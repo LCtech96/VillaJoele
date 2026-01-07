@@ -47,7 +47,7 @@ export default function Hero() {
               </h1>
             </div>
             <p className="text-xl md:text-2xl text-baroque-700 italic font-light mt-4">
-              Dove la geometria sacra incontra l'arte siciliana
+              Dove la geometria sacra incontra l&apos;arte siciliana
             </p>
           </div>
           

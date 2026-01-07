@@ -50,14 +50,14 @@ export default function SuitePage() {
                 <p className="text-lg text-baroque-700 leading-relaxed">
                   La prima suite accoglie gli ospiti in un ambiente raffinato, dove il letto 
                   decorato con madreperla diventa il fulcro della stanza. Gli arredi Barocchi 
-                  e Liberty creano un'atmosfera di opulenza elegante, mentre la luce naturale 
+                  e Liberty creano un&apos;atmosfera di opulenza elegante, mentre la luce naturale 
                   filtra attraverso le finestre, illuminando ogni dettaglio decorativo.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">
                   Il <strong>bagno padronale privato</strong> è uno spazio di puro comfort e design, 
                   dove ogni elemento è curato nei minimi dettagli. Un rifugio personale dove 
-                  rigenerarsi dopo una giornata di esplorazioni ai piedi dell'Etna.
+                  rigenerarsi dopo una giornata di esplorazioni ai piedi dell&apos;Etna.
                 </p>
               </div>
 
@@ -102,9 +102,9 @@ export default function SuitePage() {
                   Suite Secondaria
                 </h3>
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  La seconda suite offre un'esperienza altrettanto raffinata, con un carattere 
-                  distintivo che celebra l'eclettismo di Villa Joele. Gli elementi Art Nouveau 
-                  dialogano con i pezzi Barocchi, creando un'atmosfera unica e coinvolgente.
+                  La seconda suite offre un&apos;esperienza altrettanto raffinata, con un carattere 
+                  distintivo che celebra l&apos;eclettismo di Villa Joele. Gli elementi Art Nouveau 
+                  dialogano con i pezzi Barocchi, creando un&apos;atmosfera unica e coinvolgente.
                 </p>
                 
                 <p className="text-lg text-baroque-700 leading-relaxed">

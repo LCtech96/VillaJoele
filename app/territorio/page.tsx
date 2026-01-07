@@ -48,7 +48,7 @@ export default function TerritorioPage() {
               <div className="relative">
                 <div className="aspect-video bg-rustic-200 rounded-lg overflow-hidden shadow-xl">
                   <div className="w-full h-full flex items-center justify-center text-baroque-500">
-                    <p className="text-center">[Foto/Video dell'Etna visto da Villa Joele]</p>
+                    <p className="text-center">[Foto/Video dell&apos;Etna visto da Villa Joele]</p>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function TerritorioPage() {
 
               <div className="space-y-6 order-1 md:order-2">
                 <p className="text-lg text-baroque-700 leading-relaxed">
-                  <strong>Nicolosi</strong>, il borgo ai piedi dell'Etna, offre un'esperienza di 
+                  <strong>Nicolosi</strong>, il borgo ai piedi dell&apos;Etna, offre un&apos;esperienza di 
                   Sicilia autentica, lontana dai flussi turistici di massa. Qui, la tradizione 
                   si mescola con la modernità, creando un ambiente unico dove il tempo sembra 
                   scorrere più lentamente.
@@ -86,7 +86,7 @@ export default function TerritorioPage() {
                 <p className="text-lg text-baroque-700 leading-relaxed">
                   Villa Joele è il <strong>punto di partenza perfetto</strong> per chi cerca una 
                   Sicilia vera, fatta di sapori autentici, di paesaggi mozzafiato, di storia e 
-                  cultura. Dalle escursioni sull'Etna alle visite ai borghi medievali, dalle 
+                  cultura. Dalle escursioni sull&apos;Etna alle visite ai borghi medievali, dalle 
                   degustazioni di vini locali alle passeggiate tra i vigneti, ogni esperienza 
                   diventa un viaggio nella Sicilia più autentica.
                 </p>
@@ -112,7 +112,7 @@ export default function TerritorioPage() {
                 </h3>
                 <p className="text-baroque-700 leading-relaxed">
                   Esplora i crateri, i sentieri naturalistici e le grotte laviche del vulcano più 
-                  attivo d'Europa, accompagnato da guide esperte.
+                  attivo d&apos;Europa, accompagnato da guide esperte.
                 </p>
               </div>
 
@@ -131,7 +131,7 @@ export default function TerritorioPage() {
                   Enogastronomia
                 </h3>
                 <p className="text-baroque-700 leading-relaxed">
-                  Degusta i vini dell'Etna DOC, i prodotti tipici siciliani e i piatti della 
+                  Degusta i vini dell&apos;Etna DOC, i prodotti tipici siciliani e i piatti della 
                   tradizione in ristoranti e cantine locali.
                 </p>
               </div>
