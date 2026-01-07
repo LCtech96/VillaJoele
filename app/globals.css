@@ -1,0 +1,142 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-serif: 'Playfair Display', serif;
+  --font-sans: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-rustic-50 text-baroque-900;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .card-elegant {
+    @apply bg-white/95 backdrop-blur-sm rounded-lg shadow-xl border border-rustic-200/50;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(184, 130, 79, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .card-elegant:hover {
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(184, 130, 79, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  .ornament-barocco {
+    position: relative;
+  }
+  
+  .ornament-barocco::before,
+  .ornament-barocco::after {
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #b8824f, transparent);
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .ornament-barocco::before {
+    left: -80px;
+  }
+  
+  .ornament-barocco::after {
+    right: -80px;
+  }
+  
+  .ornament-liberty {
+    @apply relative;
+  }
+  
+  .ornament-liberty::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 10px,
+      #627d98 10px,
+      #627d98 12px
+    );
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  /* Decorazioni rinascimentali */
+  .ornament-rinascimentale {
+    position: relative;
+    padding: 1rem 0;
+  }
+  
+  .ornament-rinascimentale::before,
+  .ornament-rinascimentale::after {
+    content: '◆';
+    position: absolute;
+    color: #b8824f;
+    font-size: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .ornament-rinascimentale::before {
+    left: -2rem;
+  }
+  
+  .ornament-rinascimentale::after {
+    right: -2rem;
+  }
+  
+  .text-gradient-rustic {
+    @apply bg-gradient-to-r from-rustic-700 via-rustic-600 to-rustic-700 bg-clip-text text-transparent;
+  }
+  
+  .border-ornament {
+    border-image: linear-gradient(90deg, #b8824f, #c99d6b, #b8824f) 1;
+    border-width: 2px;
+    border-style: solid;
+  }
+}
+
+/* Animazioni eleganti */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+/* Scrollbar personalizzata */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-rustic-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-rustic-400 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-rustic-500;
+}
+
